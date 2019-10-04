@@ -9,9 +9,10 @@ USe a modern browser (if you don't have one, use Internet Explorer to download s
 You'll need git installed locally, as well as a preprocessor like [SASS](http://sass-lang.com/) for comilation. A good code editor helps too!
 
 ## Built with:
-HTML
-CSS
-JavaScript
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li></ul>
 
 ## Installation, etc
 CD to the location of your choice, and then git clone. Hack away!
